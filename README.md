@@ -29,12 +29,7 @@ RAG-PDF-Convo-Bot is a chatbot that allows users to upload a PDF document and in
 2. **Ask Questions:** Start asking questions related to the content of the uploaded PDF. The chatbot will respond based on the information extracted from the document.
 3. **Session ID:** Each conversation is assigned a unique session ID. If you need to refer back to a previous conversation or continue the discussion, use the session ID to maintain context.
 4. **Follow-up Questions:** The bot can remember the context of the conversation within the same session, allowing for follow-up questions without losing context. You can see whole chat history too.
-## How to run?
-Simply go to https://insightbot-3x71.onrender.com and use as started above. Yes it's that simple 😊
 
-## Contributing
-
-Contributions are welcome! Just drop an E-Mail at msinghmayank62@gmail.com
 
 
 
