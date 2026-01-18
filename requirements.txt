@@ -1,0 +1,10 @@
+langchain
+langchain_community
+pymupdf
+langchain-text-splitters
+langchain_huggingface
+langchain_chroma
+langchain_groq
+langchain_core
+streamlit
+pypdf
